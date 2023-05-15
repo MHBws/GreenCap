@@ -1,0 +1,25 @@
+.navbar.transparent.navbar-inverse {
+    background-color: transparent;
+    border-color: transparent;
+  }
+
+  .navbar.transparent .navbar-brand {
+    color: #fff;
+  }
+
+  .navbar.transparent .navbar-brand:hover,
+  .navbar.transparent .navbar-brand:focus {
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+  .navbar.transparent .navbar-nav .nav-link {
+    color: #fff;
+  }
+
+  .navbar.transparent .navbar-nav .nav-link:hover,
+  .navbar.transparent .navbar-nav .nav-link:focus {
+    color: rgba(255, 255, 255, 0.7);
+  }
+  .nav-link {
+    color: #fff;
+  }
