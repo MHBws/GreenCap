@@ -1,6 +1,13 @@
 body {
     background-color: black;
 }
+
+.navbar .nav-link:hover {
+    color: green; /* Substitua pela cor desejada */
+  }
+  
+  
+
 /* aqui arruma o tamanho do carrosel */
 #myCarousel {
     height: 700px;
